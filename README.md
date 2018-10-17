@@ -19,7 +19,6 @@ If you enjoyed contributing here, please :star2: the repo.
 
 ## Create your first pull request :sunglasses:
 
-```
  1. [Fork this repository](https://help.github.com/articles/fork-a-repo/)
 
  2. Clone the forked repository from your account
@@ -29,7 +28,7 @@ If you enjoyed contributing here, please :star2: the repo.
  4. Commit your changes with an appropriate message.
 
  5. [Create a pull request](https://help.github.com/articles/creating-a-pull-request-from-a-fork/)
- ```
+
 
 ## Example file
 path: `C/Cool.json` (first letter needs to be capitalized)

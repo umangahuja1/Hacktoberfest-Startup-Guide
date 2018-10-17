@@ -1,11 +1,11 @@
 # Hacktoberfest-Startup
 
 ![Open Source Love](https://img.shields.io/badge/Open%20Source-%E2%9D%A4-red.svg)
-![GitHub forks](https://img.shields.io/github/forks/umangahuja1/Hacktoberfest-Startup.svg)
-![GitHub issues](https://img.shields.io/github/issues/umangahuja1/Hacktoberfest-Startup.svg)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/umangahuja1/Hacktoberfest-Startup.svg)
-![GitHub contributors](https://img.shields.io/github/contributors/umangahuja1/Hacktoberfest-Startup.svg)
-![GitHub](https://img.shields.io/github/license/umangahuja1/Hacktoberfest-Startup.svg)
+![GitHub forks](https://img.shields.io/github/forks/umangahuja1/Hacktoberfest-Startup-Guide.svg)
+![GitHub issues](https://img.shields.io/github/issues/umangahuja1/Hacktoberfest-Startup-Guide.svg)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/umangahuja1/Hacktoberfest-Startup-Guide.svg)
+![GitHub contributors](https://img.shields.io/github/contributors/umangahuja1/Hacktoberfest-Startup-Guide.svg)
+![GitHub](https://img.shields.io/github/license/umangahuja1/Hacktoberfest-Startup-Guide.svg)
 
 
 This is a startup repository for beginners to get familiar with git, Github and open source contributions.

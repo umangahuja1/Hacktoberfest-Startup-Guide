@@ -1,11 +1,11 @@
 # Hacktoberfest-Startup
 
 ![Open Source Love](https://img.shields.io/badge/Open%20Source-%E2%9D%A4-red.svg)
-![GitHub forks](https://img.shields.io/github/forks/umanghauja1/Hacktoberfest-Startup.svg)
-![GitHub issues](https://img.shields.io/github/issues/umanghauja1/Hacktoberfest-Startup.svg)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/umanghauja1/Hacktoberfest-Startup.svg)
-![GitHub contributors](https://img.shields.io/github/contributors/umanghauja1/Hacktoberfest-Startup.svg)
-![GitHub](https://img.shields.io/github/license/umanghauja1/Hacktoberfest-Startup.svg)
+![GitHub forks](https://img.shields.io/github/forks/umangahuja1/Hacktoberfest-Startup.svg)
+![GitHub issues](https://img.shields.io/github/issues/umangahuja1/Hacktoberfest-Startup.svg)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/umangahuja1/Hacktoberfest-Startup.svg)
+![GitHub contributors](https://img.shields.io/github/contributors/umangahuja1/Hacktoberfest-Startup.svg)
+![GitHub](https://img.shields.io/github/license/umangahuja1/Hacktoberfest-Startup.svg)
 
 
 This is a startup repository for beginners to get familiar with git, Github and open source contributions.
@@ -14,7 +14,7 @@ If you enjoyed contributing here, please :star2: the repo.
 
 ## Contribution Guide 
 
-> [Refer to the template provided here](https://github.com/umanghauja1/Hacktoberfest-Startup/blob/master/CONTRIBUTING.md)
+> [Refer to the template provided here](https://github.com/umangahuja1/Hacktoberfest-Startup/blob/master/CONTRIBUTING_GUIDE.md)
 
 
 ## Create your first pull request :sunglasses:
